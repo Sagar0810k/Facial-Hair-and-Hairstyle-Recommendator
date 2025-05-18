@@ -20,7 +20,7 @@ def get_recommendation(face_shape):
             "hairstyle": "Side part, swept-back styles",
             "beard": "Light stubble, no beard"
         },
-        "Rectangle (Oblong)": {
+        "Rectangle": {
             "hairstyle": "Classic side part, medium-length styles",
             "beard": "Full beard to balance face"
         }
